@@ -4,4 +4,4 @@ All these folders are assignment solutions of "HTML, CSS, and Javascript for Web
 
 Link to the course: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
-Certificate: coursera.org/verify/38ZBVLNZZ3XR
+Certificate: https://www.coursera.org/account/accomplishments/verify/38ZBVLNZZ3XR
